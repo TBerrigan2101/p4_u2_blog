@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-tberrigan2101-p4u2blog-ourvk2e8rw7.ws-eu102.gitpod.io','p4-u2-blog-133496a3e109.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-tberrigan2101-p4u2blog-ourvk2e8rw7.ws-eu102.gitpod.io', 'p4-u2-blog-133496a3e109.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -53,7 +53,7 @@ INSTALLED_APPS = [
     'blog',
 ]
 
-SITE_ID = 1 
+SITE_ID = 1
 
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'

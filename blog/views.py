@@ -64,7 +64,7 @@ class PostDetail(View):
                 "liked": liked,
                 "comment_form": CommentForm()
             },
-        )    
+        )
 
 class PostLike(View):
 
