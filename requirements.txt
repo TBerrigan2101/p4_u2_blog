@@ -1,3 +1,4 @@
+alabaster==0.7.13
 asgiref==3.7.2
 cloudinary==1.33.0
 dj-database-url==0.5.0
@@ -5,6 +6,15 @@ dj3-cloudinary-storage==0.0.6
 Django==3.2.20
 django-summernote==0.8.20.0
 gunicorn==21.2.0
+imagesize==1.4.1
+pguard==0.4.0
 psycopg2==2.9.6
+Sphinx==7.1.2
+sphinxcontrib-applehelp==1.0.4
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.1
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
 sqlparse==0.4.4
 urllib3==1.26.16
